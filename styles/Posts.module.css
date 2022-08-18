@@ -1,0 +1,17 @@
+.container {
+    padding: 0 2rem;
+    min-width: 700px;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.posts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
